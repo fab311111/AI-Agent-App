@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1I1Z3IGdU_FmuDTfK20cmsCYFvu12xBWj
 """
 
-!pip install streamlit pandas scikit-learn shap numpy
+%pip install streamlit pandas scikit-learn shap numpy
 
 import streamlit as st
 import pandas as pd
